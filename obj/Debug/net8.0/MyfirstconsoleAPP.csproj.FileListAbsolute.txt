@@ -1,0 +1,14 @@
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.exe
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.deps.json
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.runtimeconfig.json
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.dll
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\bin\Debug\net8.0\MyfirstconsoleAPP.pdb
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.AssemblyInfoInputs.cache
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.AssemblyInfo.cs
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.dll
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\refint\MyfirstconsoleAPP.dll
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.pdb
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.genruntimeconfig.cache
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\ref\MyfirstconsoleAPP.dll
