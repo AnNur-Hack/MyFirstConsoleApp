@@ -12,3 +12,4 @@ C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\refint\Myfirstconso
 C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.pdb
 C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.genruntimeconfig.cache
 C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\ref\MyfirstconsoleAPP.dll
+C:\Users\HP\RiderProjects\MyfirstconsoleAPP\obj\Debug\net8.0\MyfirstconsoleAPP.sourcelink.json
